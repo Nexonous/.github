@@ -1,1 +1,1 @@
-![Nexonous Logo](https://github.com/nexonous/.github/assets/LogoBW.png)
+![Nexonous Logo](https://github.com/nexonous/.github/blob/release/assets/LogoWB.png)
