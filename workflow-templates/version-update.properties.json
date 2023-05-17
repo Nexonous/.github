@@ -1,0 +1,9 @@
+{
+    "name": "Version Update Workflow",
+    "description": "Automatically create a new branch for the newly created version based on the default branch.",
+    "iconName": "octicon versions",
+    "categories": [
+        "Deployment",
+		"Automation"
+    ]
+}
